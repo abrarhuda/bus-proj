@@ -1,0 +1,26 @@
+check,count,detail
+missing_expected_columns,0,[]
+unexpected_columns,0,[]
+missing_values_before_cleaning,0,All columns
+exact_duplicate_rows,125,Retained by default
+invalid_boolean_Revenue,0,Explicit map validation
+invalid_boolean_Weekend,0,Explicit map validation
+nonfinite_Administrative,0,Invalid measurement
+negative_Administrative,0,Invalid measurement
+nonfinite_Informational,0,Invalid measurement
+negative_Informational,0,Invalid measurement
+nonfinite_ProductRelated,0,Invalid measurement
+negative_ProductRelated,0,Invalid measurement
+nonfinite_Administrative_Duration,0,Invalid measurement
+negative_Administrative_Duration,0,Invalid measurement
+nonfinite_Informational_Duration,0,Invalid measurement
+negative_Informational_Duration,0,Invalid measurement
+nonfinite_ProductRelated_Duration,0,Invalid measurement
+negative_ProductRelated_Duration,0,Invalid measurement
+invalid_bounds_BounceRates,0,Valid range is 0 to 1
+review_flag_BounceRates_above_0.2,0,Review flag only; not dropped
+invalid_bounds_ExitRates,0,Valid range is 0 to 1
+review_flag_ExitRates_above_0.2,0,Review flag only; not dropped
+month_spellings_normalized,288,Documented labels only
+nonfinite_PageValues,0,Invalid measurement
+nonfinite_SpecialDay,0,Invalid measurement

@@ -1,0 +1,11 @@
+field,action,rows_affected,reason
+Revenue,normalize_boolean,12330,Explicit true/false mapping
+Weekend,normalize_boolean,12330,Explicit true/false mapping
+Month,normalize_labels,288,Preserve observed month categories
+Month,convert_to_string_category,12330,"Codes and labels are categorical, not quantities"
+OperatingSystems,convert_to_string_category,12330,"Codes and labels are categorical, not quantities"
+Browser,convert_to_string_category,12330,"Codes and labels are categorical, not quantities"
+Region,convert_to_string_category,12330,"Codes and labels are categorical, not quantities"
+TrafficType,convert_to_string_category,12330,"Codes and labels are categorical, not quantities"
+VisitorType,convert_to_string_category,12330,"Codes and labels are categorical, not quantities"
+row_id,add_synthetic_id,12330,Reproducible row linkage; excluded from modeling

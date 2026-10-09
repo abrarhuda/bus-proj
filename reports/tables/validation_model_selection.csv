@@ -1,0 +1,3 @@
+learning_rate,l2,validation_log_loss,iterations,gradient_norm,converged,reason
+0.1,0.1,0.38655908310529125,4137,0.04409984023016987,True,gradient_tolerance
+0.05,0.1,0.3865590831125281,8279,0.04409984021666173,True,gradient_tolerance

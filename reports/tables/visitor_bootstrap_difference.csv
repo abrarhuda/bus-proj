@@ -1,0 +1,2 @@
+comparison,new_sessions,returning_sessions,difference_percentage_points,bootstrap_ci_low_percentage_points,bootstrap_ci_high_percentage_points,replicates,seed
+New_Visitor minus Returning_Visitor,1003,6338,11.04575198355706,8.337277926397519,13.695393387524394,2000,42
