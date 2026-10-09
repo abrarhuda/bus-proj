@@ -8,6 +8,7 @@ data/processed/*
 reports/figures/*
 reports/tables/*
 reports/executive_summary.md
+online-shopper-analysis-copilot-plan.md
 !data/processed/.gitkeep
 !reports/figures/.gitkeep
 !reports/tables/.gitkeep
